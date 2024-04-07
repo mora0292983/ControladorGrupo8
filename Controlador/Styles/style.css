@@ -1,0 +1,148 @@
+﻿/* Estilos base para todos los dispositivos */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #EDEDED;
+}
+
+header {
+    background-color: #EDEDED;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    flex: 1;
+    text-align: center;
+}
+
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+    }
+
+        nav ul li {
+            margin-left: 10px;
+        }
+
+            nav ul li a {
+                color: #000;
+                text-decoration: none;
+                font-size: 18px;
+            }
+
+#logo {
+    max-width: 100%; /* Ajustar el tamaño máximo del logo para dispositivos pequeños */
+    height: auto;
+    margin-right: 20px;
+}
+
+#button {
+    padding: 10px 20px;
+    background-color: #3164F4;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.content {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.footer-section {
+    padding: 20px;
+    flex: 1;
+}
+
+    .footer-section h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .footer-section ul {
+        list-style: none;
+        padding: 0;
+    }
+
+        .footer-section ul li {
+            margin-bottom: 10px;
+        }
+
+    .footer-section a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #666;
+    font-size: 14px;
+}
+
+.contact-form .text-input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+}
+
+.contact-form textarea {
+    height: 100px;
+}
+
+.contact-form .btn {
+    background-color: #3164F4;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Media queries para dispositivos con pantallas de hasta 768px */
+@media only screen and (max-width: 768px) {
+    header {
+        padding: 10px;
+    }
+
+    nav ul li {
+        margin: 0 5px;
+    }
+
+    .footer-content {
+        flex-direction: column;
+    }
+
+    .footer-section {
+        padding: 10px;
+        text-align: center;
+    }
+
+    #logo {
+        margin-right: 0;
+    }
+}
