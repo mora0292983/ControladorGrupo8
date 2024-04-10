@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CapaDatos",
+    "\\CapaEntidades",
+    "\\CapaNegocio",
+    "\\Controlador"
   ],
+  "SelectedNode": "\\Controlador.sln",
   "PreviewInSolutionExplorer": false
 }
