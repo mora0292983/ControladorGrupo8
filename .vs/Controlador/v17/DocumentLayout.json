@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\",
+  "WorkspaceRootPath": "D:\\Documentos\\CUC\\Sitios\\ControladorGrupo8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|c:\\users\\hewlett packard\\music\\controladoraereo\\controlador\\controlador\\pagina.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\cuc\\sitios\\controladorgrupo8\\controlador\\pagina.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\pagina.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|c:\\users\\hewlett packard\\music\\controladoraereo\\controlador\\controlador\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|D:\\Documentos\\CUC\\Sitios\\ControladorGrupo8\\controlador\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|c:\\users\\hewlett packard\\music\\controladoraereo\\controlador\\controlador\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|D:\\Documentos\\CUC\\Sitios\\ControladorGrupo8\\controlador\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -22,41 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Principal.aspx",
-              "DocumentMoniker": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\Controlador\\Principal.aspx",
+              "DocumentMoniker": "D:\\Documentos\\CUC\\Sitios\\ControladorGrupo8\\Controlador\\Principal.aspx",
               "RelativeDocumentMoniker": "Controlador\\Principal.aspx",
-              "ToolTip": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\Controlador\\Principal.aspx",
+              "ToolTip": "D:\\Documentos\\CUC\\Sitios\\ControladorGrupo8\\Controlador\\Principal.aspx",
               "RelativeToolTip": "Controlador\\Principal.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-06T23:34:30.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T23:34:30.915Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\Controlador\\Styles\\style.css",
+              "DocumentMoniker": "D:\\Documentos\\CUC\\Sitios\\ControladorGrupo8\\Controlador\\Styles\\style.css",
               "RelativeDocumentMoniker": "Controlador\\Styles\\style.css",
-              "ToolTip": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\Controlador\\Styles\\style.css",
+              "ToolTip": "D:\\Documentos\\CUC\\Sitios\\ControladorGrupo8\\Controlador\\Styles\\style.css",
               "RelativeToolTip": "Controlador\\Styles\\style.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-06T23:33:15.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T23:33:15.955Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Pagina.Master",
-              "DocumentMoniker": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\Controlador\\Pagina.Master",
+              "DocumentMoniker": "D:\\Documentos\\CUC\\Sitios\\ControladorGrupo8\\Controlador\\Pagina.Master",
               "RelativeDocumentMoniker": "Controlador\\Pagina.Master",
-              "ToolTip": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\Controlador\\Pagina.Master",
+              "ToolTip": "D:\\Documentos\\CUC\\Sitios\\ControladorGrupo8\\Controlador\\Pagina.Master",
               "RelativeToolTip": "Controlador\\Pagina.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
